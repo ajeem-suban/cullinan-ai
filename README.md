@@ -1,8 +1,24 @@
-\# CULLINAN 💎
+
+<p align="center">
+  <img src="banner.png" alt="CULLINAN - Local Generative AI" width="700">
+</p>
 
 
 
-\### A Local AI Project for Facial Recognition and Personalized Image Generation
+<h1 align="center">◆ C U L L I N A N</h1>
+
+<p align="center">
+  <strong>LOCAL GENERATIVE AI PLATFORM</strong>
+</p>
+
+<p align="center">
+  Your Identity. Your Imagination. Your AI.
+</p>
+
+<p align="center">
+  <em>Private. Personalized. Locally Powered.</em>
+</p>
+
 
 
 
