@@ -1,0 +1,53 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Personal photos and generated outputs
+photos/
+output/
+
+# AI models and model weights
+*.onnx
+*.safetensors
+*.pth
+*.pt
+*.ckpt
+*.engine
+.insightface/
+.cache/
+
+# Databases and generated embeddings
+*.db
+*.sqlite
+*.sqlite3
+chroma_db/
+embeddings/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Windows installers and temporary files
+*.msix
+*.tmp
+Thumbs.db
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
